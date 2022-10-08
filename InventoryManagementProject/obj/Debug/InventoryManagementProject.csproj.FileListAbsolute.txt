@@ -1,0 +1,348 @@
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll.config
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.pdb
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe.config
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.rsp
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe.config
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.rsp
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.AppContext.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Collections.Immutable.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Console.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Compression.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.AccessControl.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Claims.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.ValueTuple.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe.config
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.rsp
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe.config
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.Web.Infrastructure.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\WebGrease.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.xml
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.xml
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.pdb
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csprojAssemblyReference.cache
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CoreCompileInputs.cache
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CopyComplete
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.pdb
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.AssemblyReference.cache
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.pdb
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll.config
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.pdb
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe.config
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.rsp
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe.config
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.rsp
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.AppContext.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Console.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Compression.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Claims.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.ValueTuple.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe.config
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.rsp
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\WebGrease.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.xml
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.xml
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.pdb
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CopyComplete
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportSource.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.Shared.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.Web.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\stdole.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportSource.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.Shared.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.Web.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Rakib\ASP.NET\Project\InventoryManagementProject\InventoryManagementProject\bin\stdole.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll.config
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.pdb
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe.config
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.rsp
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe.config
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.rsp
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.AppContext.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Collections.Immutable.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Console.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Compression.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.AccessControl.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Claims.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.ValueTuple.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe.config
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.rsp
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe.config
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.CrystalReports.Engine.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportSource.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.Shared.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.Web.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.Web.Infrastructure.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\WebGrease.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\stdole.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.xml
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.xml
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.pdb
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CoreCompileInputs.cache
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CopyComplete
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.dll
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.pdb
+G:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.AssemblyReference.cache
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll.config
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\InventoryManagementProject.pdb
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.exe.config
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csc.rsp
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.exe.config
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\csi.rsp
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.AppContext.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Console.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Compression.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.IO.Pipes.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Claims.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.ValueTuple.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.exe.config
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\vbc.rsp
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\AspNet.ScriptManager.jQuery.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\WebGrease.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\stdole.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\System.Web.Optimization.xml
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Newtonsoft.Json.xml
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Antlr3.Runtime.pdb
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.AssemblyReference.cache
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CoreCompileInputs.cache
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.csproj.CopyComplete
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.dll
+F:\ASP.NET\ASP.NET\Project\CS-USSA-A-49-01 ASP.NET  Project\1266081-Rakibul\InventoryManagementProject\InventoryManagementProject\obj\Debug\InventoryManagementProject.pdb
